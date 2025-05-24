@@ -1,4 +1,4 @@
-<h2 align="left">👋 Saudações! Meu nome é Renan Mochizuki</h2>
+<h2 align="left">👋 Renan Mochizuki</h2>
 
 ###
 
@@ -30,8 +30,6 @@
     <img width="10">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
     <img width="10">   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"/>
-    <img width="10">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
     <img width="10">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgre logo"/>
@@ -46,9 +44,6 @@
 <div align="left">
     <a href="mailto:renanmochizuki@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail badge"/>
-    </a>
-    <a href="mailto:renanmochizuki@usp.br">
-        <img src="https://img.shields.io/static/v1?message=usp.br&logo=gmail&label=&color=1094AB&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail badge"/>
     </a>
     <a href="https://www.linkedin.com/in/renan-mochizuki-55314a259/">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin badge"/>
