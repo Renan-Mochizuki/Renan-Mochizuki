@@ -18,7 +18,10 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=renan-mochizuki&locale=pt-br&theme=shadow_blue&hide_border=false" height="175" alt="contributions graph">
     <img width="12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-mochizuki&locale=pt-br&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&card_width=320&layout=compact" height="175" alt="languages graph">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Renan-Mochizuki?theme=dark&config=config.json">
+      <img height="200" alt="languages graph" src="https://github-used-languages.vercel.app/Renan-Mochizuki?config=config.json">
+    </picture>
 </div>
 
 ###
