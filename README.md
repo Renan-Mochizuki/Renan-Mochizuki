@@ -4,11 +4,11 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
-
 <h2 align="left">👋 Renan Mochizuki</h2>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
 
 <p align="left">
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
@@ -27,7 +27,7 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-####
+#### Ferramentas
 
 <p align="left">
   <a href="mailto:renanmochizuki@gmail.com" title="Gmail">
