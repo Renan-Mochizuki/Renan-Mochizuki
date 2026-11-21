@@ -8,7 +8,6 @@
 
 <h2 align="left">👋 Bom dia! Sou o Renan Mochizuki</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350" align="right">
 
 <p align="left">
 📚 Estudante de Sistemas de Informação na USP-EACH 
