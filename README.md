@@ -9,7 +9,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
 
 <tr>
-<td width="55%" valign="top">
+<td width="57%" valign="top">
     
 <h3>✨ Sobre mim</h3>
 
@@ -45,18 +45,18 @@
 
 </td>
 
-<td width="45%" align="right" valign="top">
+<td width="43%" align="right" valign="top">
 <img
 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 alt="Ilustração de um computador"
-width="375" align="center" 
+width="350" align="center" 
 />
 
 <br>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="375" align="center" />
+<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="350" align="center" />
 
 </td>
 </tr>
