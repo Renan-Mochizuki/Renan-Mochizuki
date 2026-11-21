@@ -8,17 +8,24 @@
 
 <h2 align="left">👋 Bom dia! Sou o Renan Mochizuki</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350" align="right">
 
 <p align="left">
-📚 Estudante de Sistemas de Informação na USP-EACH
-💻 Desenvolvimento Full Stack e Automações
-🌱 Atualmente estudando Data Science e Machine Learning
-🎯 Interesse em melhorar processos e desenvolver soluções
+📚 Estudante de Sistemas de Informação na USP-EACH 
+
+💻 Desenvolvimento Full Stack e Automações 
+
+🌱 Atualmente estudando Data Science e Machine Learning 
+
+🎯 Interesse em melhorar processos e desenvolver soluções 
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" align="left" width="400" />
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" align="left" width="400" />
+
+<br/>
+
 ### 🛠️ Linguagens
 
 <div align="left">
