@@ -1,56 +1,78 @@
-<h2 align="left">👋 Renan Mochizuki</h2>
 
-###
-
-<p align="left">
-    💻 Sou um desenvolvedor Back-end<br>
-    🔨 Determinado a superar e resolver desafios<br>
-    🎯 Aprimorando minhas habilidades e conhecimentos<br>
-    📗 Cursando Sistemas de Informação na USP-EACH
-</p>
-
-###
-
-<h2 align="left">🛠️ Linguagens e ferramentas</h2>
-
-###
+<h2 align="left">👋 Bom dia!</h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=renan-mochizuki&locale=pt-br&theme=shadow_blue&hide_border=false" height="175" alt="contributions graph">
-    <img width="12">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/Renan-Mochizuki?theme=dark&config=config.json">
-      <img height="200" alt="languages graph" src="https://github-used-languages.vercel.app/Renan-Mochizuki?config=config.json">
-    </picture>
+  <img src="./banner.png" alt="Banner"/>
 </div>
 
-###
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+<tr>
+<td width="60%" valign="top">
+    
+<h3>✨ Sobre mim</h3>
+
+<p>
+📚 Estudante de Sistemas de Informação na USP-EACH<br>
+💻 Desenvolvimento Full Stack e Automações<br>
+🌱 Atualmente estudando Data Science e Machine Learning<br>
+🎯 Interesse em melhorar processos e desenvolver soluções
+</p>
+
+<h3>🛠️ Linguagens</h3>
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
-    <img width="10">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="node.js logo"/>
-    <img width="10">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
-    <img width="10">   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-    <img width="10">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgre logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
 </div>
 
-###
-
-<h2 align="left">✉️ Contato</h2>
-
-###
+<h3>🧰 Tecnologias</h3>
 
 <div align="left">
-    <a href="mailto:renanmochizuki@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail badge"/>
-    </a>
-    <a href="https://www.linkedin.com/in/renan-mochizuki-55314a259/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin badge"/>
-    </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
 </div>
 
-####
+</td>
+
+<td width="40%" align="right" valign="top">
+<img
+src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+alt="Ilustração de um computador"
+width="375" align="center" 
+/>
+
+<br>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="375" align="center" />
+
+</td>
+</tr>
+</table>
+
+<h3>✉️ Contato</h3>
+
+<div align="left">
+<a href="mailto:renanmochizuki@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/5511950705193">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/renan-mochizuki">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square" />
+</a>
+</div>
