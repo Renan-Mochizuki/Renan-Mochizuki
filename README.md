@@ -4,9 +4,9 @@
 
 <br/>
 
-<h2 align="left">👋 Renan Mochizuki</h2>
+</div>
 
-<br/>
+<h2 align="left">👋 Renan Mochizuki</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
 
@@ -19,15 +19,11 @@
   🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
+#### 🛠️Ferramentas
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
-
-#### Ferramentas
 
 <p align="left">
   <a href="mailto:renanmochizuki@gmail.com" title="Gmail">
@@ -38,12 +34,8 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 </p>
 
-</div>
 
 <!--
-<h2 align="left">👋 Renan Mochizuki</h2>
-
-###
 
 <p align="left">
     💻 Sou um desenvolvedor Back-end<br>
