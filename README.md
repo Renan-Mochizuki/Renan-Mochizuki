@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./banner.png" alt="Banner"/>
+
+</div>
+
+<!--
 <h2 align="left">👋 Renan Mochizuki</h2>
 
 ###
@@ -54,3 +61,5 @@
 </div>
 
 ####
+
+-->
