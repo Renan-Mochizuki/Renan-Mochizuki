@@ -11,7 +11,7 @@
 <tr>
 <td width="55%" valign="top">
     
-<h2>✨ Sobre mim</h3>
+<h3>✨ Sobre mim</h3>
 
 <p>
 📚 Estudante de Sistemas de Informação na USP-EACH<br>
@@ -20,7 +20,7 @@
 🎯 Interesse em melhorar processos e desenvolver soluções
 </p>
 
-<h2>🛠️ Linguagens</h3>
+<h3>🛠️ Linguagens</h3>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
@@ -32,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
 </div>
 
-<h2>🧰 Tecnologias</h3>
+<h3>🧰 Tecnologias</h3>
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
