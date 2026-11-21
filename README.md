@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350" align="right">
 
+<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="350" align="right"/>
+
 <p align="left">
 📚 Estudante de Sistemas de Informação na USP-EACH<br>
 💻 Desenvolvimento Full Stack e Automações<br>
@@ -65,4 +67,3 @@
   </a>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="350" align="right"/>
