@@ -16,7 +16,7 @@
       🌱 Atualmente estudando Data Science e Machine Learning<br>
       🎯 Interesse em melhorar processos e desenvolver soluções
       
-      ### 🛠️ Linguagens
+      🛠️ Linguagens
 
       <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -34,7 +34,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
       </div>
 
-### 🧰 Tecnologias
+🧰 Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  /> 
 </div>
 
-### ✉️ Contato
+ ✉️ Contato
 
 <p align="left">
   <a href="mailto:renanmochizuki@gmail.com" title="Gmail">
