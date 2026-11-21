@@ -1,4 +1,3 @@
-
 <h2 align="left">👋 Bom dia!</h2>
 
 <div align="center">
@@ -46,7 +45,7 @@
 
 </td>
 
-<td width="40%" align="right" valign="top">
+<td width="45%" align="right" valign="top">
 <img
 src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
 alt="Ilustração de um computador"
