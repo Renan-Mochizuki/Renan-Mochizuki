@@ -12,19 +12,12 @@
 
 <p align="left">
 📚 Estudante de Sistemas de Informação na USP-EACH 
-
 💻 Desenvolvimento Full Stack e Automações 
-
 🌱 Atualmente estudando Data Science e Machine Learning 
-
 🎯 Interesse em melhorar processos e desenvolver soluções 
 </p>
 
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" align="left" width="400" />
-
-<br/>
 
 ### 🛠️ Linguagens
 
