@@ -8,6 +8,8 @@
 
 <h2 align="left">👋 Renan Mochizuki</h2>
 
+<br/>
+
 <p align="left">
   Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
