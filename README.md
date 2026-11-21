@@ -11,14 +11,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
 
 <p align="left">
-📗 Estudante de Sistemas de Informação na USP-EACH
+📚 Estudante de Sistemas de Informação na USP-EACH
+💻 Desenvolvimento Full Stack e Automações
+🌱 Atualmente estudando Data Science e Machine Learning
+🎯 Interesse em melhorar processos e desenvolver soluções
 </p>
 
-<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" align="left" width="300" />
+<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" align="left" width="400" />
+<br/>
+### 🛠️ Linguagens
 
-### 🛠️ Linguagens e Tecnologias
-
-<div data-importer="techs" align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -32,7 +35,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
+</div>
+
+### 🧰 Tecnologias
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
