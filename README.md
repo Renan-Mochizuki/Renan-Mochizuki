@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="left">👋 Renan Mochizuki</h2>
+<h2 align="left">👋 Bom dia!</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400" align="right">
 
@@ -15,11 +15,7 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-#### 🛠️Ferramentas
+### 🛠️Linguagens e Tecnologias
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
@@ -27,11 +23,14 @@
 
 <p align="left">
   <a href="mailto:renanmochizuki@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/renan-mochizuki" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://wa.me/5511950705193" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 
