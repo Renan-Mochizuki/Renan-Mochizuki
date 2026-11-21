@@ -2,40 +2,37 @@
 
 <img src="./banner.png" alt="Banner"/>
 
-<br>
-
 </div>
+
+<br>
 
 <h2 align="left">👋 Bom dia!</h2>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350" align="right">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%">
+      📚 Estudante de Sistemas de Informação na USP-EACH<br>
+      💻 Desenvolvimento Full Stack e Automações<br>
+      🌱 Atualmente estudando Data Science e Machine Learning<br>
+      🎯 Interesse em melhorar processos e desenvolver soluções
+      
+      ### 🛠️ Linguagens
 
-<img src="https://streak-stats.demolab.com?user=Renan-Mochizuki&theme=dark&hide_border=true&background=60%2C000000%2C06064D" alt="GitHub Streak" width="350" align="right"/>
-
-<p align="left">
-📚 Estudante de Sistemas de Informação na USP-EACH<br>
-💻 Desenvolvimento Full Stack e Automações<br>
-🌱 Atualmente estudando Data Science e Machine Learning<br>
-🎯 Interesse em melhorar processos e desenvolver soluções<br>
-</p>
-
-### 🛠️ Linguagens
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="sql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-</div>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="sql logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+        <img width="8" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
+      </div>
 
 ### 🧰 Tecnologias
 
@@ -66,4 +63,15 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0077B5&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+    </td>
+    <td width="50%" align="right">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+           alt="Ilustração de um computador"
+           width="350">
+    </td>
+  </tr>
+</table>
+
+
+
 
